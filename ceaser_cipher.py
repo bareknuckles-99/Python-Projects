@@ -34,7 +34,7 @@ def decoder(decoded_name, alpha):
 
 decoder(decoded_name, alpha)
 
-# # Decoder
+# # Separate Input Based Decoder
 
 # letters = list(string.ascii_lowercase)
 # print(letters)
